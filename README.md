@@ -1,6 +1,6 @@
 # Proyecto_CTF
 
-Para poder desplegar el proyecto debes tener las siguientes herramientas
+Para poder desplegar el proyecto debes de tener las siguientes herramientas
 
 1.- Docker desktop
 2.- Es necesario instalar kubectl y istioctl, los cuales permitiran ingresar una serie de comandos
