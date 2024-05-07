@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kube
+  labels:
+    app: kube
+  annotations:
+    sidecar.istio.io/inject: "true"
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: kube
+  template:
+    metadata:
+      labels:
+        app: kube
+    spec:
+      containers:
+      - name: kube
+        image: IvanG/helloworld
+        ports:
+        - containerPort: 80
+        imagePullPolicy: Never
+
+---
+
+kind: Service
+apiVersion: v1
+metadata:
+  name: holacrayola
+  namespace: istio-system
+spec:
+  selector:
+    app: kube
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 80
