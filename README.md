@@ -57,10 +57,8 @@ Para poder utilizar este proyecto debes tener las siguientes herramientas💻
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk5bTcxZGp0Y3VuNTJuMzZuMDQyOWoxempwNXFmaTV1eGsyZTZwNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tocXCNSHGemCq8FEsD/200w.webp" 
     width="150"/>
 </div>
-
-
-
-
+<br/> 
+<br/> 
 Presentacion: https://docs.google.com/presentation/d/1iahDBbDWI6I090aA6gXq7atSSvBGX1Rj-AJ3w2s54u0/edit?usp=sharing
 
 
