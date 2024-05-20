@@ -9,9 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ea9504f1-7e84-48dd-a669-5a2f1ca9ae99" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Online_FP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Online_FP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BigStarStation/Maps/Map_BigStarStation.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BigStarStation/Maps/Map_BigStarStation.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BPGI_GameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BPGI_GameInstance.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Widgets/BPW_Menu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Widgets/BPW_Menu.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +197,7 @@
       <workItem from="1716110161250" duration="534000" />
       <workItem from="1716184698656" duration="780000" />
       <workItem from="1716188134345" duration="1248000" />
+      <workItem from="1716193012436" duration="1421000" />
     </task>
     <servers />
   </component>
