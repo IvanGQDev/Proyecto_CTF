@@ -115,7 +115,7 @@ void AOnline_FPCharacter::CreateGameSession()
 	// Settings definition
 	TSharedPtr<FOnlineSessionSettings> SessionSettings = MakeShareable(new FOnlineSessionSettings);
 	SessionSettings->bIsLANMatch = false;
-	SessionSettings->NumPublicConnections = 4;
+	SessionSettings->NumPublicConnections = 2;
 	SessionSettings->bAllowJoinInProgress = true;
 	// Allow the region search sessions
 	SessionSettings->bAllowJoinViaPresence = true;
