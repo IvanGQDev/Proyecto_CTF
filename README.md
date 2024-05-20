@@ -60,7 +60,7 @@ Para poder utilizar este proyecto debes tener las siguientes herramientas💻
 <br/> 
 <br/> 
 
-# <div align="center">Presentacion (En progreso)</div>
+# <div align="center">Presentación</div>
 [Presentación](https://docs.google.com/presentation/d/1hD648PMNIilBB0TpFLgczAVyHNKYBnZciRUeCxplbVo/edit?usp=sharing)
 
 
