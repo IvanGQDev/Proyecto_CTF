@@ -9,11 +9,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ea9504f1-7e84-48dd-a669-5a2f1ca9ae99" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Online_FP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Online_FP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Particles/P_Ambient_Dust.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Particles/P_Ambient_Dust.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Widgets/BPW_OverheadWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Widgets/BPW_OverheadWidget.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Online_FP/Online_FPCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Online_FP/Online_FPCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Online_FP/OverheadWidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Online_FP/OverheadWidget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BigStarStation/Maps/Map_BigStarStation.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BigStarStation/Maps/Map_BigStarStation.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BPGI_GameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BPGI_GameInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,25 +30,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Omar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Omar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Specktre\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Specktre\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\Specktre\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Specktre\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Specktre\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Specktre\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Online_FP" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -200,6 +198,7 @@
       <workItem from="1716101749530" duration="5864000" />
       <workItem from="1716110161250" duration="534000" />
       <workItem from="1716184698656" duration="780000" />
+      <workItem from="1716188134345" duration="1248000" />
     </task>
     <servers />
   </component>
