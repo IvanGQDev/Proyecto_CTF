@@ -152,7 +152,7 @@ void AOnline_FPCharacter::OnCreateSessionComplete(FName SessionName, bool bWasSu
 		if(World)
 		{
 			// The player will be trave to the lobby map and using ?listen, set the session as listener
-			World->ServerTravel(FString("/Game/Levels/Lvl_Lobby?listen"));
+			World->ServerTravel(FString("/Game/BigStarStation/Maps/Map_BigStarStation?listen"));
 		}
 	}
 	else

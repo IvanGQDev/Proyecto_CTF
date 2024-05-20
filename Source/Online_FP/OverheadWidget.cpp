@@ -23,14 +23,14 @@ void UOverheadWidget::ShowPlayerNetRole(APawn* InPawn)
 	
 	if (!InPawn)
 	{
-		SetDisplayText(TEXT("Remote role: Unknown"), TEXT("Name: Unknown"));
+		SetDisplayText(TEXT(" "), TEXT("Name: Unknown"));
 		return;
 	}
 
 	APlayerState* PlayerState = InPawn->GetPlayerState();
 	if (!PlayerState)
 	{
-		SetDisplayText(TEXT("Remote role: Unknown"), TEXT("Name: Unknown"));
+		SetDisplayText(TEXT(" "), TEXT("Name: Unknown"));
 		return;
 	}
 
@@ -59,7 +59,7 @@ void UOverheadWidget::ShowPlayerNetRole(APawn* InPawn)
 	FString PlayerName = PlayerState->GetPlayerName();  
 	FString PlayerNameString = FString::Printf(TEXT("Name: %s"), *PlayerName);
 
-	SetDisplayText(RemoteRoleString, PlayerNameString);
+	SetDisplayText(" ", PlayerNameString);
 }
 
 void UOverheadWidget::OnLevelRemovedFromWorld(ULevel* InLevel, UWorld* InWorld)
